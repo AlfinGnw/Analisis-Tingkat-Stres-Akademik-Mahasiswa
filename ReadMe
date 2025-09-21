@@ -5,7 +5,7 @@ Proyek ini bertujuan untuk menganalisis faktor-faktor yang berkontribusi terhada
 
 ## Dataset
 Dataset yang digunakan dalam analisis ini adalah `academic Stress level - maintainance 1.csv`. Dataset ini berisi informasi tentang berbagai aspek kehidupan akademik mahasiswa dan tingkat stres mereka.
-[Link Dataset (termasuk dalam repositori ini)](academic%20Stress%20level%20-%20maintainance%201.csv)
+[Link Dataset (termasuk dalam repositori ini)](https://www.kaggle.com/datasets/poushal02/student-academic-stress-real-world-dataset/data)
 
 ## Insights & Findings
 Berdasarkan analisis data, beberapa insight utama yang ditemukan meliputi:
